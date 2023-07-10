@@ -1,4 +1,4 @@
-# PacMen
+# Eye Exercise
 
 ## Description
 This code is an HTML and JavaScript implementation that creates a simple animation of two eyes following the movement of the mouse cursor. The HTML structure defines the layout of the eyes, while the JavaScript code enables the dynamic behavior.
